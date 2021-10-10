@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HNBBR
-- 👀 I’m interested in ... Python, C, C#, C++, Javascript, CSS, HTML
+- 👀 I’m interested in ... Python, C, C#, C++, Javascript, CSS, HTML, PHP
 - 🌱 I’m currently learning ... C and GameDev
 - 💞️ I’m looking to collaborate on ... GameDev and Animation
 - 📫 How to reach me ... GitHUB
